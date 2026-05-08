@@ -1,0 +1,2 @@
+GitHub OAuth:
+pip install flask authlib requests

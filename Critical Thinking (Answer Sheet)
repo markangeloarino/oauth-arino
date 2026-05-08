@@ -1,9 +1,15 @@
 Result Analysis
 i. What happens when a user accesses /profile without logging in?
-    it will send message saying "Unathorized Access"
+    >> it will send message saying "Unathorized Access"
 
 ii. What data is returned after successful login?
-    the 
+    >> the Profile Page with the user data
+
 iii. Why is OAuth considered more secure than traditional login?
+    >> becuase it verify the user which is the admin of the original author of the source code
+
 iv. What challenges did you encounter?
+    >> finding the bug when I /logout and try to visit /profile it directly go to /profile without the need of  /login
+
 v. What did you learn from this activity?
+    >> I learn to use the oauth python programming and the need of administrative authorization to access the profile  
