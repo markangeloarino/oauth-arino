@@ -1,0 +1,9 @@
+Result Analysis
+i. What happens when a user accesses /profile without logging in?
+    it will send message saying "Unathorized Access"
+
+ii. What data is returned after successful login?
+    the 
+iii. Why is OAuth considered more secure than traditional login?
+iv. What challenges did you encounter?
+v. What did you learn from this activity?
